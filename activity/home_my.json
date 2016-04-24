@@ -1,0 +1,101 @@
+{
+    "code": 0,
+        "activities": [
+        {
+            "id": 21,
+            "title": "已发布测试活动－－\\/%跑步1",
+            "publish_time": "2015-08-29 00:00:00",
+            "begin_time": "2015-09-30 00:00:00",
+            "end_time": "2016-01-11 00:00:00",
+            "team_id": 1,
+            "sub_status": 2,
+            "cover_url": "http://dev.image.com.cn/default/activity1.png",
+            "qr_code_url": null,
+            "address": "成都市高新区萃华路xxx号",
+            "brief_address": "花样年：香年广场",
+            "enroll_fee_type": 3,
+            "enroll_fee": "9.98",
+            "essence": 0,
+            "city": {
+                "id": 1,
+                "name": "qMCkLaGxu4BEReeb9SmCyR3iBJdRtLQc"
+            },
+            "team": {
+                "id": 1,
+                "name": "NGOvOTLRasnEGtwJr7x5eAYwLRlc0p5W",
+                "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+                "introduction": "eX38YZN6ESJn3wBTDCzohbs0xnIS9H8lqSC72qA41vPAoOj5SLJDTqWsHkATJEeHn1jrUo0yNYlUqVH76igvudbMXPWR1WezOtCxo6Yeufn03uEcH8ChHoawQab4wDa1up18fEf1wNbXnna8tQTj1TQf9E0oJjuIdIPz6a6I6qb9xVRmzlMY45XzIGMvRVQxzXu91PxQ"
+            },
+            "location": null,
+            "status": 1,
+            "applicant_status": 2,
+            "enrolled_team": true,
+            "enrolled_num": 0,
+            "auditing": 1
+        },
+        {
+            "id": 3,
+            "title": "已发布测试活动－－%自行车",
+            "publish_time": "2015-09-18 10:34:21",
+            "begin_time": "2015-10-08 08:00:00",
+            "end_time": "2015-10-08 18:00:00",
+            "team_id": 1,
+            "sub_status": 3,
+            "cover_url": "http://dev.image.com.cn/default/activity1.png",
+            "qr_code_url": null,
+            "address": "成都市高新区萃华路xxx号",
+            "brief_address": "花样年：香年广场",
+            "enroll_fee_type": 3,
+            "enroll_fee": "9.98",
+            "essence": 0,
+            "city": {
+                "id": 1,
+                "name": "qMCkLaGxu4BEReeb9SmCyR3iBJdRtLQc"
+            },
+            "team": {
+                "id": 1,
+                "name": "NGOvOTLRasnEGtwJr7x5eAYwLRlc0p5W",
+                "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+                "introduction": "eX38YZN6ESJn3wBTDCzohbs0xnIS9H8lqSC72qA41vPAoOj5SLJDTqWsHkATJEeHn1jrUo0yNYlUqVH76igvudbMXPWR1WezOtCxo6Yeufn03uEcH8ChHoawQab4wDa1up18fEf1wNbXnna8tQTj1TQf9E0oJjuIdIPz6a6I6qb9xVRmzlMY45XzIGMvRVQxzXu91PxQ"
+            },
+            "location": null,
+            "status": 1,
+            "applicant_status": 3,
+            "enrolled_team": true,
+            "enrolled_num": 1,
+            "auditing": 1
+        },
+        {
+            "id": 23,
+            "title": "已发布测试活动－－\\/%跑步",
+            "publish_time": "2015-09-13 00:00:00",
+            "begin_time": "2015-09-16 00:00:00",
+            "end_time": "2015-09-17 00:00:00",
+            "team_id": 1,
+            "sub_status": 5,
+            "cover_url": "http://dev.image.com.cn/default/activity1.png",
+            "qr_code_url": null,
+            "address": "成都市高新区萃华路xxx号",
+            "brief_address": "花样年：香年广场",
+            "enroll_fee_type": 3,
+            "enroll_fee": "9.98",
+            "essence": 0,
+            "city": {
+                "id": 1,
+                "name": "qMCkLaGxu4BEReeb9SmCyR3iBJdRtLQc"
+            },
+            "team": {
+                "id": 1,
+                "name": "NGOvOTLRasnEGtwJr7x5eAYwLRlc0p5W",
+                "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+                "introduction": "eX38YZN6ESJn3wBTDCzohbs0xnIS9H8lqSC72qA41vPAoOj5SLJDTqWsHkATJEeHn1jrUo0yNYlUqVH76igvudbMXPWR1WezOtCxo6Yeufn03uEcH8ChHoawQab4wDa1up18fEf1wNbXnna8tQTj1TQf9E0oJjuIdIPz6a6I6qb9xVRmzlMY45XzIGMvRVQxzXu91PxQ"
+            },
+            "location": null,
+            "status": 1,
+            "applicant_status": 3,
+            "enrolled_team": true,
+            "enrolled_num": 0,
+            "auditing": 1
+        }
+    ]
+}

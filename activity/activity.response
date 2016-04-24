@@ -1,0 +1,213 @@
+[
+    {
+        "request": {
+            "uri": "/search/point"
+        },
+        "response": {
+            "file": "search_point_page.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "activity": "1"
+            }
+        },
+        "response": {
+            "file": "detail_1.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "activity": "2"
+            }
+        },
+        "response": {
+            "file": "detail_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/search/name"
+        },
+        "response": {
+            "file": "search_name_page.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/city/list"
+        },
+        "response": {
+            "file": "city_list_1.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/hasalbum/list"
+        },
+        "response": {
+            "file": "hasalbum_list_1.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "album/image/list",
+            "queries": {
+                "creator_type": "0",
+                "page": "2"
+            }
+        },
+        "response": {
+            "file": "album/sponsor_album_image_list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "album/image/list",
+            "queries": {
+                "creator_type": "0",
+                "page": "3"
+            }
+        },
+        "response": {
+            "file": "album/sponsor_album_image_list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "album/image/list",
+            "queries": {
+                "creator_type": "0",
+                "page": "1"
+            }
+        },
+        "response": {
+            "file": "album/sponsor_album_image_list_page_1.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "album/image/list",
+            "queries": {
+                "creator_type": "1",
+                "page": "2"
+            }
+        },
+        "response": {
+            "file": "album/user_album_image_list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "album/image/list",
+            "queries": {
+                "creator_type": "1",
+                "page": "3"
+            }
+        },
+        "response": {
+            "file": "album/user_album_image_list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "album/image/list",
+            "queries": {
+                "creator_type": "1",
+                "page": "1"
+            }
+        },
+        "response": {
+            "file": "album/user_album_image_list_page_1.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "album/image/add"
+        },
+        "response": {
+            "file": "album/add_image.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "member/location"
+        },
+        "response": {
+            "file": "group_member_location.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "member/score"
+        },
+        "response": {
+            "file": "member/score.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "no/score"
+        },
+        "response": {
+            "file": "user_no_score.json"
+        }
+    },
+	{
+        "request": {
+            "uri": "applicant/applicant"
+        },
+        "response": {
+            "file": "applicant_applicant.json"
+        }
+    },
+	{
+        "request": {
+            "uri": "applicant/payment/info"
+        },
+        "response": {
+            "file": "applicant_payment_into.json"
+        }
+    },
+	{
+        "request": {
+            "uri": "team/list"
+        },
+        "response": {
+            "file": "city_list_1.json"
+        }
+    },{
+        "request": {
+            "uri": "checkIn/checkIn"
+        },
+        "response": {
+            "file": "check_in.json"
+        }
+    },{
+        "request": {
+            "uri": "checkIn/list"
+        },
+        "response": {
+            "file": "check_in_list.json"
+        }
+    },{
+        "request": {
+            "uri": "member/list"
+        },
+        "response": {
+            "file": "member/list.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/home/my"
+        },
+        "response": {
+            "file": "home_my.json"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "code": 0,
+    "members": [
+        {
+            "user_id": 1,
+            "name": "zhangsan",
+            "role": 0,
+			"lat":30.123201,
+			"lng":104.121201,
+			"avatar_url": "http://dev.image.jhla.com.cn/default/activity1.png"
+        },
+		{
+            "user_id": 2,
+            "name": "lisi",
+            "role": 0,
+			"lat":30.123211,
+			"lng":104.121301,
+			"avatar_url": "http://dev.image.jhla.com.cn/default/activity1.png"
+        },
+		{
+            "user_id": 3,
+            "name": "wangwu",
+            "role": 0,
+			"lat":30.124201,
+			"lng":104.121201,
+			"avatar_url": "http://dev.image.jhla.com.cn/default/activity1.png"
+        }
+    ]
+}

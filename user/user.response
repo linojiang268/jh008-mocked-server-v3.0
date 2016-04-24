@@ -1,0 +1,10 @@
+[
+    {
+        "request": {
+            "uri": "/profile"
+        },
+        "response": {
+            "file": "profile_1.json"
+        }
+    }
+]

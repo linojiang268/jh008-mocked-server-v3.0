@@ -1,0 +1,63 @@
+{
+    "code": 0,
+    "teams": [
+        {
+            "id": 6,
+            "creator_id": 1,
+            "name": "Sixth team",
+            "introduction": "Sixth team intro",
+            "certification": 0,
+            "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+            "qr_code_url": "http://qrcode",
+            "joined": true,
+            "in_whitelist": false
+        },
+        {
+            "id": 7,
+            "creator_id": 2,
+            "name": "Seventh team",
+            "introduction": "Seventh team intro",
+            "certification": 0,
+            "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+            "qr_code_url": "http://qrcode",
+            "join_type": 1,
+            "activity_num": 100,
+            "joined": true,
+            "in_whitelist": false
+        },
+        {
+            "id": 5,
+            "creator_id": 3,
+            "name": "Fifth team",
+            "introduction": "Fifth team intro",
+            "certification": 0,
+            "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+            "qr_code_url": "http://qrcode",
+            "joined": false,
+            "requested": true,
+            "in_whitelist": false
+        },
+        {
+            "id": 4,
+            "name": "Fourth team",
+            "introduction": "Fourth team intro",
+            "certification": 0,
+            "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+            "qr_code_url": "http://qrcode",
+            "joined": false,
+            "requested": false,
+            "in_whitelist": true
+        },
+        {
+            "id": 1,
+            "name": "First team",
+            "introduction": "First team intro",
+            "certification": 0,
+            "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+            "qr_code_url": "http://qrcode",
+            "joined": false,
+            "requested": false,
+            "in_whitelist": false
+        }
+    ]
+}

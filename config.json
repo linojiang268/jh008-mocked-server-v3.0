@@ -1,0 +1,37 @@
+[
+    {
+        "context": "/api/team",
+        "file_root": "team",
+        "include": "team.response"
+    },
+    {
+        "context": "/api/activity",
+        "file_root": "activity",
+        "include": "activity.response"
+    },
+    {
+        "context": "/api/city",
+        "file_root": "city",
+        "include": "city.response"
+    },
+    {
+        "context": "/api/news",
+        "file_root": "news",
+        "include": "news.response"
+    },
+    {
+        "context": "/api/user",
+        "file_root": "user",
+        "include": "user.response"
+    },
+    {
+        "context": "/api/message",
+        "file_root": "message",
+        "include": "message.response"
+    },
+    {
+        "context": "/api/banner",
+        "file_root": "banner",
+        "include": "banner.response"
+    }
+]

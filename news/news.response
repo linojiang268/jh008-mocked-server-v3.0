@@ -1,0 +1,32 @@
+[
+    {
+        "request": {
+            "uri": "/",
+            "queries": {
+                "page": "2"
+            }
+        },
+        "response": {
+            "file": "list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/",
+            "queries": {
+                "page": "3"
+            }
+        },
+        "response": {
+            "file": "list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/"
+        },
+        "response": {
+            "file": "list_page_1.json"
+        }
+    }
+]

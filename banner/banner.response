@@ -1,0 +1,10 @@
+[
+    {
+        "request": {
+            "uri": "/list"
+        },
+        "response": {
+            "file": "banner_list_page.json"
+        }
+    }
+]

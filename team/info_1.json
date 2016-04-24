@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "id": 1,
+    "name": "First team",
+    "introduction": "First team intro",
+    "certification": 0,
+    "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+    "qr_code_url": "http://qrcode",
+    "join_type": 0,
+    "join_requirements": [],
+    "member_num": 100,
+    "joined": false,
+    "requested": false,
+    "in_whitelist": false,
+    "activities_updated_at": 1438403092,
+    "members_updated_at": 1438403092,
+    "news_updated_at": 1438403092,
+    "albums_updated_at": 1438403092,
+    "notices_updated_at": null
+}

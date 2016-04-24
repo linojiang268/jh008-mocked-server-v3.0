@@ -1,0 +1,24 @@
+[
+    {
+        "request": {
+            "uri": "/list",
+            "queries": {
+            	"type": "1"
+            }
+        },
+        "response": {
+            "file": "system_msg_list_page_1.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/list",
+            "queries": {
+            	"type": "2"
+            }
+        },
+        "response": {
+            "file": "user_msg_list_page_1.json"
+        }
+    }
+]

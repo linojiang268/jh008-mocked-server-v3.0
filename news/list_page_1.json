@@ -1,0 +1,30 @@
+{
+    "code": 0,
+    "pages": 2,
+    "news": [
+        {
+            "id": 1,
+            "title": "First news",
+            "cover_url": "http://dev.image.jhla.com.cn/default/activity1.png",
+            "publish_time": "2015-07-18 23:23:23"
+        },
+        {
+            "id": 2,
+            "title": "Second news",
+            "cover_url": "http://dev.image.jhla.com.cn/default/activity2.png",
+            "publish_time": "2015-07-18 23:23:24"
+        },
+        {
+            "id": 3,
+            "title": "Third news",
+            "cover_url": "http://dev.image.jhla.com.cn/default/activity3.png",
+            "publish_time": "2015-07-18 23:23:25"
+        },
+        {
+            "id": 4,
+            "title": "Fourth news",
+            "cover_url": "http://dev.image.jhla.com.cn/default/activity4.png",
+            "publish_time": "2015-07-18 23:23:26"
+        }
+    ]    
+}

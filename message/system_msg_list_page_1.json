@@ -1,0 +1,20 @@
+{
+    "code": 0,
+    "last_requested_time": "2015-07-01 00:00:00",
+    "total_num": 2,
+    "messages": [
+        {
+            "id": 1,
+            "content": "系统消息内容近期活动有奖励",
+            "created_at": "2015-07-30 00:00:00",
+            "type": "text"
+        },
+        {
+            "id": 2,
+            "content": "系统消息内容近期活动有奖励",
+            "created_at": "2015-08-01 00:00:00",
+            "type": "url",
+            "attributes": {"url": "http://www.baidu.com"}
+        }
+    ]    
+}

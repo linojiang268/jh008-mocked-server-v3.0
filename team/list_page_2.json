@@ -1,0 +1,45 @@
+{
+    "code": 0,
+    "pages": 2,
+    "teams": [
+        {
+            "id": 5,
+            "name": "Fifth team",
+            "introduction": "Fifth team intro",
+            "certification": 0,
+            "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+            "qr_code_url": "http://qrcode",
+            "join_type": 1,
+            "join_requirements": [],
+            "activity_num": 100,
+            "member_num": 100,
+            "joined": false
+        },
+        {
+            "id": 6,
+            "name": "Sixth team",
+            "introduction": "Sixth team intro",
+            "certification": 0,
+            "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+            "qr_code_url": "http://qrcode",
+            "join_type": 1,
+            "join_requirements": [],
+            "activity_num": 100,
+            "member_num": 100,
+            "joined": true
+        },
+        {
+            "id": 7,
+            "name": "Seventh team",
+            "introduction": "Seventh team intro",
+            "certification": 0,
+            "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+            "qr_code_url": "http://qrcode",
+            "join_type": 1,
+            "join_requirements": [],
+            "activity_num": 100,
+            "member_num": 100,
+            "joined": true
+        }
+    ]    
+}

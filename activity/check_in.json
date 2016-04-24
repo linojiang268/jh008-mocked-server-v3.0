@@ -1,0 +1,19 @@
+﻿{
+    "code": 0,
+    "message": "你已经签过到了",
+    "step": "1",
+    "check_list": [
+        {
+            "step": 1,
+            "status": 1
+        },
+        {
+            "step": 2,
+            "status": 0
+        },
+        {
+            "step": 3,
+            "status": 0
+        }
+    ]
+}

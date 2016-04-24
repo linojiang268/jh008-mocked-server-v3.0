@@ -1,0 +1,22 @@
+{
+        "code": 0,
+        "pages": 1,
+        "activities": [
+        {
+            "id": 1,
+            "title": "未发布测试活动－－%游泳",
+            "publish_time": "2015-07-23 15:37:25",
+            "begin_time": "2015-07-26 15:37:25",
+            "end_time": "2015-07-27 15:37:25",
+            "added_activity": true
+        },
+        {
+            "id": 2,
+            "title": "未发布测试活动－－\\/%跑步",
+            "publish_time": "2015-07-23 15:37:25",
+            "begin_time": "2015-07-28 15:37:25",
+            "end_time": "2015-07-30 15:37:25",
+            "added_activity": false
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "id": 7,
+    "name": "Seventh team",
+    "introduction": "Seventh team intro",
+    "certification": 0,
+    "logo_url": "http://dev.image.jhla.com.cn/default/team_logo.png",
+    "qr_code_url": "http://qrcode",
+    "join_type": 1,
+    "join_requirements": [],
+    "member_num": 100,
+    "joined": true,
+    "visibility": 1,
+    "activities_updated_at": 1438403092,
+    "members_updated_at": 1438403092,
+    "news_updated_at": 1438403092,
+    "albums_updated_at": 1438403092,
+    "notices_updated_at": null
+}

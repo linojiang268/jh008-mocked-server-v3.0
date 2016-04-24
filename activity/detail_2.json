@@ -1,0 +1,64 @@
+{
+    "code": 0,
+        "activity": {
+            "id": 2,
+            "title": "已发布测试活动－－\\/%跑步",
+            "team_id": 1,
+            "sub_status": 1,
+            "cover_uri": "http://dev.image.jhla.com.cn/default/activity1.png",
+            "address": "成都市高新区萃华路xxx号",
+            "brief_address": "花样年：香年广场",
+            "enroll_fee_type": 3,
+            "enroll_fee": 654,
+            "publish_time": "2015-07-23 15:45:18",
+            "essence": 0,
+            "city": {
+                "id": 1,
+                "name": "lC9kIIp17kBrXWUpSqwny7jqz0KncBzw"
+            },
+            "team": {
+                "id": 1,
+                "name": "WKVrFKmQydyC9FaTk2P0f7qC6KUquIYK",
+                "logo_uri": "http://dev.image.jhla.com.cn/default/team_logo.png",
+                "introduction": "kvI5fZncx93tRdXFzeF1yptVwDyhAa7pNaCaZNm4zMRhQVYy6LOSV1zpNwFYBCsBFrPrzayG3EeWzygaNMtlQ6IvpIGf4Q6HMgeSKadOJ0i2sNhhgKnuwR4OkCBmg32p3dT43C7rzBRv5OszjaidQY0HFgV8eCWW5fT9DQRUfPLTEJPlZalBKg3Kh4GRjsyY9mZWKM3X"
+            },
+            "enrolled_team": false,
+            "enrolled_num": 0,
+            "begin_time": "2015-07-23 15:59:18",
+            "end_time": "2015-07-23 16:17:18",
+            "enroll_begin_time": "2015-07-23 16:01:18",
+            "enroll_end_time": "2015-07-23 16:09:18",
+            "enroll_type": 1,
+            "enroll_limit": 1000,
+            "enroll_attrs": "xx|cc|sd",
+            "location": ["30.663795","103.965432"],
+            "roadmap": [
+                [
+                "30.663795",
+            "103.965432"
+                ],
+            [
+                "30.635957",
+            "103.977505"
+                ],
+            [
+                "30.629494",
+            "104.016599"
+                ],
+            [
+                "30.675225",
+            "104.031547"
+                ]
+                ],
+            "update_step": 1,
+            "telphone": "13801380000",
+            "images_url": [
+                "http://dev.image.jhla.com.cn//default/activity1.png",
+                "http://dev.image.jhla.com.cn/default/activity2.png",
+                "http://dev.image.jhla.com.cn/default/activity3.png",
+                "http://dev.image.jhla.com.cn/default/activity4.png"
+                ],
+            "detail": "我不知道写什么 …… ……",
+            "applicant_info": 1
+        }
+}

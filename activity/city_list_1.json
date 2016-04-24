@@ -1,0 +1,58 @@
+{
+        "code": 0,
+        "pages": 1,
+        "activities": [
+        {
+            "id": 1,
+            "title": "未发布测试活动－－%游泳",
+            "team_id": 1,
+            "sub_status": 1,
+            "cover_uri": "http://dev.image.jhla.com.cn/default/activity1.png",
+            "address": "成都市高新区萃华路xxx号",
+            "brief_address": "花样年：香年广场",
+            "enroll_fee_type": 3,
+            "enroll_fee": 5,
+            "publish_time": "2015-07-23 15:37:25",
+            "essence": 0,
+            "city": {
+                "id": 1,
+                "name": "Y1RmAQZujdA3MSq5eB66WGg2NUxYn9CL"
+            },
+            "team": {
+                "id": 1,
+                "name": "YjPoTolyHHfgpuJoZLR9vakNoq1scwDo",
+                "logo_uri": "http://dev.image.jhla.com.cn/default/team_logo.png",
+                "introduction": "hfEESdOtEjE9P33xnQLqbinVfVO8uHMTtGaMxZOCaWthVuflGtUz9bAVPdX8HfjgpCKNtbUA8deSxBNyNE8J1hwuDPgFuAwkNsWUb2vtkJm2bGekcmLcFmbQRzkgjeFOWujrtKnLYK2Z4vobzGYphoVjLXvLwAFi1JXwb3E0R0uYpFPlb3FoPbriu2BKqAumh7jGPot4"
+            },
+            "enrolled_team": false,
+            "enrolled_num": 0,
+            "location": ["30.594684","104.074091"]
+        },
+        {
+            "id": 2,
+            "title": "未发布测试活动－－\\/%跑步",
+            "team_id": 1,
+            "sub_status": 1,
+            "cover_uri": "http://dev.image.jhla.com.cn/default/activity1.png",
+            "address": "成都市高新区萃华路xxx号",
+            "brief_address": "花样年：香年广场",
+            "enroll_fee_type": 3,
+            "enroll_fee": 8,
+            "publish_time": "2015-07-23 15:37:25",
+            "essence": 0,
+            "city": {
+                "id": 1,
+                "name": "Y1RmAQZujdA3MSq5eB66WGg2NUxYn9CL"
+            },
+            "team": {
+                "id": 1,
+                "name": "YjPoTolyHHfgpuJoZLR9vakNoq1scwDo",
+                "logo_uri": "http://dev.image.jhla.com.cn/default/team_logo.png",
+                "introduction": "hfEESdOtEjE9P33xnQLqbinVfVO8uHMTtGaMxZOCaWthVuflGtUz9bAVPdX8HfjgpCKNtbUA8deSxBNyNE8J1hwuDPgFuAwkNsWUb2vtkJm2bGekcmLcFmbQRzkgjeFOWujrtKnLYK2Z4vobzGYphoVjLXvLwAFi1JXwb3E0R0uYpFPlb3FoPbriu2BKqAumh7jGPot4"
+            },
+            "enrolled_team": false,
+            "enrolled_num": 0,
+            "location": ["30.663795","103.965432"]
+        }
+    ]
+}

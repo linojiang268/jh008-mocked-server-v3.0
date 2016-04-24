@@ -1,0 +1,18 @@
+﻿{
+    "code": 0,
+    "info": {
+        "id": 4,
+        "order_no": "JH2015080414223555C05A2BB0FBD811",
+        "activity_id": 1,
+        "user_id": 1,
+        "mobile": "13500135000",
+        "name": "张三",
+        "attrs": "[{\"key\":\"\\u8eab\\u9ad8\",\"value\":172},{\"key\":\"\\u4f53\\u91cd\",\"value\":70}]",
+        "expire_at": "2015-08-05 00:00:00",
+        "status": 2,
+        "created_at": "2015-08-04 14:22:35",
+        "updated_at": "2015-08-04 14:22:35",
+        "fee": "10.00",
+        "activity_title": "第一次活动"
+    }
+}

@@ -1,0 +1,228 @@
+[
+    {
+        "request": {
+            "uri": "/list",
+            "queries": {
+                "page": "2"
+            }
+        },
+        "response": {
+            "file": "list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/list",
+            "queries": {
+                "page": "3"
+            }
+        },
+        "response": {
+            "file": "list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/list"
+        },
+        "response": {
+            "file": "list_page_1.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "team": "1"
+            }
+        },
+        "response": {
+            "file": "info_1.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "team": "2"
+            }
+        },
+        "response": {
+            "file": "info_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "team": "3"
+            }
+        },
+        "response": {
+            "file": "info_3.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "team": "4"
+            }
+        },
+        "response": {
+            "file": "info_4.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "team": "5"
+            }
+        },
+        "response": {
+            "file": "info_5.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "team": "6"
+            }
+        },
+        "response": {
+            "file": "info_6.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/info",
+            "queries": {
+                "team": "7"
+            }
+        },
+        "response": {
+            "file": "info_7.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/enroll",
+            "method": "post",
+            "forms": {
+                "team": "1"
+            }
+        },
+        "response": {
+            "file": "member/request_for_enrollment_as_member.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/enroll",
+            "method": "post",
+            "forms": {
+                "team": "2"
+            }
+        },
+        "response": {
+            "file": "member/request_for_enrollment_queued.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/enroll",
+            "method": "post",
+            "forms": {
+                "team": "3"
+            }
+        },
+        "response": {
+            "file": "member/request_for_enrollment_rejected.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/quit",
+            "method": "post",
+            "forms": {
+                "team": "6"
+            }
+        },
+        "response": {
+            "file": "member/quit.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/quit",
+            "method": "post",
+            "forms": {
+                "team": "7"
+            }
+        },
+        "response": {
+            "file": "member/quit_not_member.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/update",
+            "method": "post",
+            "forms": {
+                "team": "6"
+            }
+        },
+        "response": {
+            "file": "member/update.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/update",
+            "method": "post",
+            "forms": {
+                "team": "7"
+            }
+        },
+        "response": {
+            "file": "member/update.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/list",
+            "queries": {
+                "page": "2"
+            }
+        },
+        "response": {
+            "file": "member/list_page_2.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/member/list"
+        },
+        "response": {
+            "file": "member/list.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/relate/list"
+        },
+        "response": {
+            "file": "relate_list_page.json"
+        }
+    },
+    {
+        "request": {
+            "uri": "/self/list"
+        },
+        "response": {
+            "file": "self_list_page.json"
+        }
+    }
+]

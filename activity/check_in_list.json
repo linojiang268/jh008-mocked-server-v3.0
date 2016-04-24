@@ -1,0 +1,20 @@
+﻿{
+    "code": 0,
+    "activity_id": "1",
+    "step": "1",
+    "ver": "1",
+    "check_list": [
+        {
+            "step": 1,
+            "status": 1
+        },
+        {
+            "step": 2,
+            "status": 0
+        },
+        {
+            "step": 3,
+            "status": 0
+        }
+    ]
+}
